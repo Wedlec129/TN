@@ -43,3 +43,19 @@
         }
     }
 }
+
+
+.back-button{
+    display: inline;
+    --button-bg: var(--bg-neutral-1);
+    --button-text: var(--text-action);
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: none;
+    border-radius: 8px;
+    height: 44px;
+    padding: 10px;
+    box-sizing: border-box;
+    flex: 1 1 auto;
+    /* width: 200px; */
+}

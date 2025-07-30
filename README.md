@@ -6,9 +6,18 @@
 Пет проект для кое кого
 
 
+##### запуск фронта
+```   
+cd frontend/ 
+npm i 
+npm run dev
+```
+
 ##### запуск бека
 ```   
-npm i run dev
+cd backend/
+npm i 
+npm run start
 ```
 
 ----
