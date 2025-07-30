@@ -1,0 +1,10 @@
+
+@import "./components/root.css";
+@import "./components/navbar.css";
+@import './components/buttons.css';
+@import './components/inputs.css';
+@import './components/login.css';
+@import './components/post.css';
+@import './components/abouts.css';
+
+

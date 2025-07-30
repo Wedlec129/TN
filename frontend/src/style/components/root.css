@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Tinkoff", Arial, sans-serif;
+}
+
+:root {
+    --bg-light: #f6f7f8;
+    --bg-neutral-1: rgba(36, 74, 127, 0.06);
+    --bg-accent-1: rgba(255, 221, 45, 1);
+    --bg-accent-hover: rgb(251, 223, 78);
+    --bg-accent-active: rgb(163, 139, 21);
+    --bg-focus-1: rgba(125, 135, 151, 0.06);
+    --bg-active-1: rgba(169, 182, 197, 0.06);
+    --border-neutral-1: rgb(80, 80, 80);
+    --border-light: rgba(0, 16, 36, 0.12);
+    --text-primary: rgba(0, 0, 0, 0.75);
+    --text-secondary: rgba(0, 0, 0, 0.54);
+    --text-muted: rgba(0, 0, 0, 0.54);
+    --text-primary-on-accent: rgba(51, 51, 51, 1);
+    --text-action: rgba(18, 109, 247, 1);
+  }
+
+@font-face {
+    font-family: "Tinkoff";
+    src: url(../../font/neuehaasunicaw1g-regular.ttf);
+    font-size: 13px;
+    font-weight: 400px;
+}
